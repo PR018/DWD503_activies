@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Activities</title>
+    <style>
+             h3 {
+            color: #ff0000;
+        }
+        body {
+        background-color: aqua;
+        }
+       h1{
+           font-family: Georgia, 'Times New Roman', Times, serif;
+       } 
+        
+    </style>
+</head>
+<body>
+    <!-- Activity 1 (Headings & Anchor) -->
+    <h1, style="color: blue;">ATC New Zealand</h1,><br>
+    <h1, style="color: rgb(0, 0, 255);">ATC New Zealand</h1,><br>
+    <h1, style="color: #0000ff">ATC New Zealand</h1,><br>
+    
+    <h2>Programs</h2>
+    <h3>Web Development</h3>
+    <h3>Music</h3>
+    <h3>Ultimate</h3>
+    <h2>News</h2>
+    <h2><a href="https://visioncollege.ac.nz">About Us</a></h2>  
+    <p>Vision College Provides a wide rage of educational opportunities</p>  
+    <!-- Activity 2 -->
+    <H1 style="text-align: center;"><span style="color: Blue;">G</span><span style="color: red;">o</span><span style="color: yellow;">o</span><span style="color: Blue;">g</span><span style="color: green;">l</span><span style="color: red;">e</span>
+    </style>
+    </H1>
+</body>
+</html>
